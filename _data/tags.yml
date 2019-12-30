@@ -1,0 +1,8 @@
+sql:
+  name: SQL
+  description: Nauka SQL
+  cover: assets/images/speeches.jpg
+other:
+  name: Pozostałe
+  description: Pozostałe posty
+  cover: assets/images/speeches.jpg
